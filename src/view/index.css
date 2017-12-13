@@ -1,0 +1,8 @@
+div{
+    background:orange;
+    color:skyblue;
+    transition: all 1s;
+}
+div:hover{
+    transform: rotate(90deg);
+}
